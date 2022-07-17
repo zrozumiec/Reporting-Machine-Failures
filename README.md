@@ -18,6 +18,10 @@ Application offers two kind of users:
 - Applicant - the person who have some problems with machines and looking for help to solve this problems
 - Receiver - the person who are a service provider and want to troubleshoot failures
 
+![L0](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# Functions
+
 ### Applicant is able to :
 - Add new failure report
 - Edit existing reports
